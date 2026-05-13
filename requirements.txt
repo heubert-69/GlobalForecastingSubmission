@@ -12,7 +12,8 @@ dowhy
 shap 
 mlflow 
 scikit-survival 
-umap-learn 
+umap-learn
+scikit-learn
 xgboost 
 lightgbm 
 catboost 
